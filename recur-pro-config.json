@@ -6,6 +6,7 @@
     {
       "type": "mini",
       "title": "Mini Tip",
+      "subtitle": "A Small Tip!",
       "titleTagText": null,
       "priceSupplementaryText": null,
       "priceSubtitleText": "",
@@ -15,6 +16,7 @@
     {
       "type": "mega",
       "title": "Mega Tip",
+      "subtitle": "A Generous Tip!",
       "titleTagText": null,
       "priceSupplementaryText": null,
       "priceSubtitleText": "",
@@ -24,6 +26,7 @@
     {
       "type": "jumbo",
       "title": "Jumbo Tip",
+      "subtitle": "A SUPER Generous Tip!",
       "titleTagText": "Most Popular",
       "priceSupplementaryText": null,
       "shouldBeGivenProminance": true,
@@ -41,6 +44,7 @@
     {
       "type": "yearlySubscription",
       "title": "Yearly Subscription",
+      "subtitle": null,
       "titleTagText": "Best Value",
       "priceSupplementaryText": "/ Year",
       "priceSubtitleText": "",
@@ -50,6 +54,7 @@
     {
       "type": "lifetime",
       "title": "Yearly Subscription",
+      "subtitle": null,
       "titleTagText": null,
       "priceSupplementaryText": null,
       "priceSubtitleText": "One-Time Purchase",
