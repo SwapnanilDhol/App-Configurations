@@ -1,0 +1,89 @@
+{
+  "title": "Unlock Recur Pro",
+  "subtitle": "Unlimited Subscriptions, Notifications, and more",
+  "footer": "Purchasing any of the above unlocks the same verion of pro. If you can afford to pay more you can send a larger tip 😄",
+  "packages": [
+    {
+      "type": "mini",
+      "title": "Mini Tip",
+      "titleTagText": null,
+      "priceSupplementaryText": null,
+      "priceSubtitleText": "",
+      "shouldBeGivenProminance": false,
+      "isActive": true
+    },
+    {
+      "type": "mega",
+      "title": "Mega Tip",
+      "titleTagText": null,
+      "priceSupplementaryText": null,
+      "priceSubtitleText": "",
+      "shouldBeGivenProminance": false,
+      "isActive": true
+    },
+    {
+      "type": "jumbo",
+      "title": "Jumbo Tip",
+      "titleTagText": "Most Popular",
+      "priceSupplementaryText": null,
+      "shouldBeGivenProminance": true,
+      "isActive": true
+    },
+    {
+      "type": "monthlySubscription",
+      "title": "Monthly Subscription",
+      "titleTagText": null,
+      "priceSupplementaryText": "/ Month",
+      "priceSubtitleText": "",
+      "shouldBeGivenProminance": false,
+      "isActive": false
+    },
+    {
+      "type": "yearlySubscription",
+      "title": "Yearly Subscription",
+      "titleTagText": "Best Value",
+      "priceSupplementaryText": "/ Year",
+      "priceSubtitleText": "",
+      "shouldBeGivenProminance": true,
+      "isActive": false
+    },
+    {
+      "type": "lifetime",
+      "title": "Yearly Subscription",
+      "titleTagText": null,
+      "priceSupplementaryText": null,
+      "priceSubtitleText": "One-Time Purchase",
+      "shouldBeGivenProminance": false,
+      "isActive": false
+    }
+  ],
+  "features": [
+    "Enable Notification Reminders.",
+    "Customize all sorts of Colors.",
+    "Alternate App Icons.",
+    "iCloud Sync.",
+    "Support Indie Developer!"
+  ],
+  "reviews": [
+    {
+      "stars": 5,
+      "review": "Easy to use",
+      "reviewer": "superlatios"
+    },
+    {
+      "stars": 5,
+      "review": "Recommended",
+      "reviewer": "[ Silent Warrior ]"
+    },
+    {
+      "stars": 5,
+      "review": "Beautiful UI",
+      "reviewer": "pouya Hz"
+    },
+    {
+      "stars": 5,
+      "review": "Amazing Application!",
+      "reviewer": "AnayDaBest"
+    }
+  ]
+}
