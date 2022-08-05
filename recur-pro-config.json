@@ -49,7 +49,7 @@
       "priceSupplementaryText": "/ Year",
       "priceSubtitleText": "",
       "shouldBeGivenProminance": true,
-      "isActive": true
+      "isActive": false
     },
     {
       "type": "lifetime",
