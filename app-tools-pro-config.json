@@ -1,0 +1,94 @@
+{
+  "headerImageURL": "https://picsum.photos/id/237/200/300",
+  "title": "Unlock App Tools Pro",
+  "subtitle": "Unlimited saved apps, All app details, and more",
+  "footer": "Purchasing any of the above unlocks the same verion of pro. If you can afford to pay more or you're an organization you can send a larger tip 😄",
+  "restoreProCTATitle": "Already a Pro? Restore your purchase",
+  "privacyPolicyURL": "https://google.com",
+  "termsAndConditionsURL": "https://google.com",
+  "packages": [
+    {
+      "type": "micro",
+      "rcIdentifier": "apptools.pro.micro",
+      "title": "Mini Tip",
+      "subtitle": "A Small Tip!",
+      "titleTagText": null,
+      "priceSupplementaryText": null,
+      "priceSubtitleText": "",
+      "shouldBeGivenProminance": false,
+      "isActive": true
+    },
+    {
+      "type": "mini",
+      "rcIdentifier": "apptools.pro.mini",
+      "title": "Mega Tip",
+      "subtitle": "A Generous Tip!",
+      "titleTagText": null,
+      "priceSubtitleText": "",
+      "shouldBeGivenProminance": false,
+      "isActive": true
+    },
+    {
+      "type": "mega",
+      "rcIdentifier": "apptools.pro.mega",
+      "title": "Jumbo Tip",
+      "subtitle": "A SUPER Generous Tip!",
+      "titleTagText": "Most Popular",
+      "priceSupplementaryText": null,
+      "shouldBeGivenProminance": true,
+      "isActive": true
+    }
+  ],
+  "primarySelectedPackageIndex": 2,
+  "colorScheme": {
+    "light": {
+      "titleTextColor": "#AABBCC",
+      "subtitleTextColor": "#AABBCC",
+      "titleTagTextColor": "#AABBCC",
+      "titleTagBackgroundColor": "#AABBCC",
+      "fillColor": "#AABBDD",
+      "selectedFillColor": "#AABBDD",
+      "borderColor": "#AAASASA",
+      "selectedBorderColor": "AHBAHBS"
+    },
+    "dark": {
+      "titleTextColor": "#AABBCC",
+      "subtitleTextColor": "#AABBCC",
+      "titleTagTextColor": "#AABBCC",
+      "titleTagBackgroundColor": "#AABBCC",
+      "fillColor": "#AABBDD",
+      "selectedFillColor": "#AABBDD",
+      "borderColor": "#AAASASA",
+      "selectedBorderColor": "AHBAHBS"
+    }
+  },
+  "features": [
+    "Enable Notification Reminders.",
+    "Customize all sorts of Colors.",
+    "Alternate App Icons.",
+    "iCloud Sync.",
+    "Support Indie Developer!"
+  ],
+  "reviews": [
+    {
+      "stars": 5,
+      "review": "Easy to use",
+      "reviewer": "superlatios"
+    },
+    {
+      "stars": 5,
+      "review": "Recommended",
+      "reviewer": "[ Silent Warrior ]"
+    },
+    {
+      "stars": 5,
+      "review": "Beautiful UI",
+      "reviewer": "pouya Hz"
+    },
+    {
+      "stars": 5,
+      "review": "Amazing Application!",
+      "reviewer": "AnayDaBest"
+    }
+  ]
+}
