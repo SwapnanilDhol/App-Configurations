@@ -9,7 +9,7 @@
   "packages": [
     {
       "type": "micro",
-      "rcIdentifier": "apptools.pro.micro",
+      "rcIdentifier": "rc.apptools.pro.micro",
       "title": "Mini Tip",
       "subtitle": "A Small Tip!",
       "titleTagText": null,
@@ -20,7 +20,7 @@
     },
     {
       "type": "mini",
-      "rcIdentifier": "apptools.pro.mini",
+      "rcIdentifier": "rc.apptools.pro.mini",
       "title": "Mega Tip",
       "subtitle": "A Generous Tip!",
       "titleTagText": null,
@@ -30,7 +30,7 @@
     },
     {
       "type": "mega",
-      "rcIdentifier": "apptools.pro.mega",
+      "rcIdentifier": "rc.apptools.pro.mega",
       "title": "Jumbo Tip",
       "subtitle": "A SUPER Generous Tip!",
       "titleTagText": "Most Popular",
