@@ -9,7 +9,7 @@
   "packages": [
     {
       "type": "micro",
-      "rcIdentifier": "recur-pro-mini",
+      "rcIdentifier": "apptools.pro.micro",
       "title": "Mini Tip",
       "subtitle": "A Small Tip!",
       "titleTagText": null,
@@ -20,7 +20,7 @@
     },
     {
       "type": "mini",
-      "rcIdentifier": "recur-pro-mega",
+      "rcIdentifier": "apptools.pro.mini",
       "title": "Mega Tip",
       "subtitle": "A Generous Tip!",
       "titleTagText": null,
@@ -30,7 +30,7 @@
     },
     {
       "type": "mega",
-      "rcIdentifier": "$rc_lifetime",
+      "rcIdentifier": "apptools.pro.mega",
       "title": "Jumbo Tip",
       "subtitle": "A SUPER Generous Tip!",
       "titleTagText": "Most Popular",
