@@ -42,14 +42,14 @@
   "primarySelectedPackageIndex": 2,
   "colorScheme": {
     "light": {
-      "titleTextColor": "#AABBCC",
-      "subtitleTextColor": "#AABBCC",
-      "titleTagTextColor": "#AABBCC",
-      "titleTagBackgroundColor": "#AABBCC",
-      "fillColor": "#AABBDD",
-      "selectedFillColor": "#AABBDD",
-      "borderColor": "#AAASASA",
-      "selectedBorderColor": "AHBAHBS"
+      "titleTextColor": "#edf2fb",
+      "subtitleTextColor": "#979dac",
+      "titleTagTextColor": "#6930c3",
+      "titleTagBackgroundColor": "#edf2fb",
+      "fillColor": "#023e8a",
+      "selectedFillColor": "#03045e",
+      "borderColor": "#0096c7",
+      "selectedBorderColor": "#023e8a"
     },
     "dark": {
       "titleTextColor": "#AABBCC",
