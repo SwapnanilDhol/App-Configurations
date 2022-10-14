@@ -55,7 +55,7 @@
     },
     "dark": {
       "titleTextColor": "#FFFFFF",
-      "subtitleTextColor": "#999999",
+      "subtitleTextColor": "#CBCBCB",
       "titleTagTextColor": "#000000",
       "titleTagBackgroundColor": "#FFFFFF",
       "fillColor": "#000000",
