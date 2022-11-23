@@ -11,7 +11,7 @@
       "priceSupplementaryText": null,
       "priceSubtitleText": "",
       "shouldBeGivenProminance": false,
-      "isActive": false
+      "isActive": true
     },
     {
       "type": "mega",
@@ -21,7 +21,7 @@
       "priceSupplementaryText": null,
       "priceSubtitleText": "",
       "shouldBeGivenProminance": false,
-      "isActive": false
+      "isActive": true
     },
     {
       "type": "jumbo",
@@ -30,7 +30,7 @@
       "titleTagText": "Most Popular",
       "priceSupplementaryText": null,
       "shouldBeGivenProminance": true,
-      "isActive": false
+      "isActive": true
     },
     {
       "type": "monthlySubscription",
@@ -39,7 +39,7 @@
       "priceSupplementaryText": "/ Month",
       "priceSubtitleText": "",
       "shouldBeGivenProminance": false,
-      "isActive": true
+      "isActive": false
     },
     {
       "type": "yearlySubscription",
@@ -49,7 +49,7 @@
       "priceSupplementaryText": "/ Year",
       "priceSubtitleText": "",
       "shouldBeGivenProminance": true,
-      "isActive": true
+      "isActive": false
     },
     {
       "type": "lifetime",
@@ -59,7 +59,7 @@
       "priceSupplementaryText": null,
       "priceSubtitleText": "One-Time Purchase",
       "shouldBeGivenProminance": false,
-      "isActive": true
+      "isActive": false
     }
   ],
   "features": [
