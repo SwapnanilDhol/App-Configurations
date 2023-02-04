@@ -1,0 +1,87 @@
+{
+  "headerImageURL": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+  "title": "Unlock Palette Buddy Pro",
+  "subtitle": "Unlimited card creations, remove watermark, all customization unlocked, and more!",
+  "footer": "Purchasing any of the above unlocks the same verion of pro. If you can afford to pay more or you're an organization you can send a larger tip 😄",
+  "restoreProCTATitle": "Already a Pro? Restore your purchase",
+  "privacyPolicyURL": "https://google.com",
+  "termsAndConditionsURL": "https://google.com",
+  "packages": [
+    {
+      "type": "mini",
+      "rcIdentifier": "palletbuddy.mini.offering",
+      "title": "Mini Tip",
+      "subtitle": "A Verrry Generous Tip!",
+      "titleTagText": null,
+      "priceSupplementaryText": null,
+      "priceSubtitleText": null,
+      "shouldBeGivenProminance": false,
+      "isActive": true
+    },
+    {
+      "type": "mega",
+      "rcIdentifier": "palettebuddy.mega.offering",
+      "title": "Mega Tip",
+      "subtitle": "A SUPER Generous Tip!",
+      "titleTagText": "Most Popular",
+      "priceSupplementaryText": null,
+      "priceSubtitleText": null,
+      "shouldBeGivenProminance": true,
+      "isActive": true
+    }
+  ],
+  "primarySelectedPackageIndex": 1,
+  "colorScheme": {
+    "light": {
+      "titleTextColor": "#000000",
+      "subtitleTextColor": "#3C3C3C",
+      "titleTagTextColor": "#FFFFFF",
+      "titleTagBackgroundColor": "#F56416",
+      "fillColor": "#FFFFFF",
+      "selectedFillColor": "#FFC37B",
+      "borderColor": "#4E2A00",
+      "selectedBorderColor": "#A03905"
+    },
+    "dark": {
+      "titleTextColor": "#FFFFFF",
+      "subtitleTextColor": "#CBCBCB",
+      "titleTagTextColor": "#000000",
+      "titleTagBackgroundColor": "#FFFFFF",
+      "fillColor": "#000000",
+      "selectedFillColor": "#F56416",
+      "borderColor": "#4E2A00",
+      "selectedBorderColor": "#872400"
+    }
+  },
+  "features": [
+    "Unlimited Card Creations.",
+    "Gradient and Image background.",
+    "Custom Color Picker for Palette.",
+    "Remove Watermark.",
+    "All customization options.",
+    "Free upgrade to all future pro updates",
+    "Support Indie Developer!"
+  ],
+  "reviews": [
+    {
+      "stars": 5,
+      "review": "Easy to use",
+      "reviewer": "superlatios"
+    },
+    {
+      "stars": 5,
+      "review": "Recommended",
+      "reviewer": "[ Silent Warrior ]"
+    },
+    {
+      "stars": 5,
+      "review": "Beautiful UI",
+      "reviewer": "pouya Hz"
+    },
+    {
+      "stars": 5,
+      "review": "Amazing Application!",
+      "reviewer": "AnayDaBest"
+    }
+  ]
+}
