@@ -9,7 +9,7 @@
   "packages": [
     {
       "type": "monthly",
-      "rcIdentifier": "swipes_pro_monthly_subscription",
+      "rcIdentifier": "swipes.monthly.subscription.offering",
       "title": "Monthly Subscription",
       "subtitle": "Recurring monthly subscription",
       "titleTagText": null,
@@ -20,7 +20,7 @@
     },
     {
       "type": "yearly",
-      "rcIdentifier": "swipes_pro_yearly_subscription",
+      "rcIdentifier": "swipes.yearly.subscription.offering",
       "title": "Yearly Subscription",
       "subtitle": "Recurring yearly subscription",
       "titleTagText": "Best Value",
@@ -31,7 +31,7 @@
     },
     {
       "type": "lifetime",
-      "rcIdentifier": "swipes_pro_lifetime",
+      "rcIdentifier": "swipes.lifetime.offering",
       "title": "Lifetime",
       "subtitle": "One-time purchase!",
       "titleTagText": null,
