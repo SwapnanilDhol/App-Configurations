@@ -1,0 +1,163 @@
+{
+  "title": "Unlock Swipes Pro",
+  "subtitle": "Unlimited cards, notifications, widgets, and oh so much more!",
+  "footer": "",
+  "packages": [
+    {
+      "type": "swipes_pro_monthly_subscription",
+      "title": "Monthly Subscription",
+      "titleTagText": null,
+      "priceSupplementaryText": "/ Month",
+      "priceSubtitleText": "",
+      "shouldBeGivenProminance": false,
+      "isActive": true
+    },
+    {
+      "type": "swipes_pro_yearly_subscription",
+      "title": "Yearly Subscription",
+      "subtitle": null,
+      "titleTagText": "Best Value",
+      "priceSupplementaryText": "/ Year",
+      "priceSubtitleText": "",
+      "shouldBeGivenProminance": true,
+      "isActive": true
+    },
+    {
+      "type": "swipes_pro_lifetime",
+      "title": "Lifetime!",
+      "subtitle": null,
+      "titleTagText": null,
+      "priceSupplementaryText": null,
+      "priceSubtitleText": "One-Time Purchase",
+      "shouldBeGivenProminance": false,
+      "isActive": true
+    }
+  ],
+  "features": [
+    "Enable Notification Reminders.",
+    "Customize all sorts of Colors.",
+    "Alternate App Icons.",
+    "iCloud Sync.",
+    "Support Indie Developer!"
+  ],
+  "reviews": [
+    {
+      "stars": 5,
+      "review": "Easy to use",
+      "reviewer": "superlatios"
+    },
+    {
+      "stars": 5,
+      "review": "Recommended",
+      "reviewer": "[ Silent Warrior ]"
+    },
+    {
+      "stars": 5,
+      "review": "Beautiful UI",
+      "reviewer": "pouya Hz"
+    },
+    {
+      "stars": 5,
+      "review": "Amazing Application!",
+      "reviewer": "AnayDaBest"
+    }
+  ]
+}
+{
+  "headerImageURL": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+  "title": "Unlock Swipes Pro",
+  "subtitle": "Unlimited cards, notifications, widgets, and oh so much more!",
+  "footer": "",
+  "restoreProCTATitle": "Already a Pro? Restore your purchase",
+  "privacyPolicyURL": "https://google.com",
+  "termsAndConditionsURL": "https://google.com",
+  "packages": [
+    {
+      "type": "monthly",
+      "rcIdentifier": "swipes_pro_monthly_subscription",
+      "title": "Monthly Subscription",
+      "subtitle": "Recurring monthly subscription",
+      "titleTagText": null,
+      "priceSupplementaryText": "/ Month",
+      "priceSubtitleText": null,
+      "shouldBeGivenProminance": false,
+      "isActive": true
+    },
+    {
+      "type": "yearly",
+      "rcIdentifier": "swipes_pro_yearly_subscription",
+      "title": "Yearly Subscription",
+      "subtitle": "Recurring yearly subscription",
+      "titleTagText": "Best Value",
+      "priceSupplementaryText": "/ Year",
+      "priceSubtitleText": null,
+      "shouldBeGivenProminance": true,
+      "isActive": true
+    },
+    {
+      "type": "lifetime",
+      "rcIdentifier": "swipes_pro_lifetime",
+      "title": "Lifetime",
+      "subtitle": "One-time purchase!",
+      "titleTagText": null,
+      "priceSupplementaryText": null,
+      "priceSubtitleText": null,
+      "shouldBeGivenProminance": false,
+      "isActive": true
+    }
+  ],
+  "primarySelectedPackageIndex": 1,
+  "colorScheme": {
+    "light": {
+      "titleTextColor": "#000000",
+      "subtitleTextColor": "#3C3C3C",
+      "titleTagTextColor": "#FFFFFF",
+      "titleTagBackgroundColor": "#F56416",
+      "fillColor": "#FFFFFF",
+      "selectedFillColor": "#FFC37B",
+      "borderColor": "#4E2A00",
+      "selectedBorderColor": "#A03905"
+    },
+    "dark": {
+      "titleTextColor": "#FFFFFF",
+      "subtitleTextColor": "#CBCBCB",
+      "titleTagTextColor": "#000000",
+      "titleTagBackgroundColor": "#FFFFFF",
+      "fillColor": "#000000",
+      "selectedFillColor": "#F56416",
+      "borderColor": "#4E2A00",
+      "selectedBorderColor": "#872400"
+    }
+  },
+  "features": [
+    "Unlimited Card Creations.",
+    "Gradient and Image background.",
+    "Custom Color Picker for Palette.",
+    "Remove Watermark.",
+    "All customization options.",
+    "Free upgrade to all future pro updates",
+    "Support Indie Developer!"
+  ],
+  "reviews": [
+    {
+      "stars": 5,
+      "review": "Easy to use",
+      "reviewer": "superlatios"
+    },
+    {
+      "stars": 5,
+      "review": "Recommended",
+      "reviewer": "[ Silent Warrior ]"
+    },
+    {
+      "stars": 5,
+      "review": "Beautiful UI",
+      "reviewer": "pouya Hz"
+    },
+    {
+      "stars": 5,
+      "review": "Amazing Application!",
+      "reviewer": "AnayDaBest"
+    }
+  ]
+}
