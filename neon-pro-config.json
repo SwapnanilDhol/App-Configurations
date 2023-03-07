@@ -45,7 +45,7 @@
       "rcIdentifier": "neon_pro_monthly_subscription",
       "title": "Monthly Subscription",
       "subtitle": "Pay every month",
-      "titleTagText": "Most Popular",
+      "titleTagText": null,
       "priceSupplementaryText": "/ Month",
       "priceSubtitleText": null,
       "shouldBeGivenProminance": false,
@@ -64,14 +64,14 @@
     },
     {
       "type": "lifetime",
-      "rcIdentifier": "proaccess",
+      "rcIdentifier": "neon_pro_lifetime",
       "title": "Lifetime!",
       "subtitle": "Lifetime access to Neon Pro",
       "titleTagText": "Most Popular",
       "priceSupplementaryText": null,
       "priceSubtitleText": null,
       "shouldBeGivenProminance": true,
-      "isActive": false
+      "isActive": true
     }
   ],
   "primarySelectedPackageIndex": 1,
