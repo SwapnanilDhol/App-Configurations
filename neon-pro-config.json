@@ -23,10 +23,10 @@
       "rcIdentifier": "neon-pixy-pixel",
       "title": "Pixy Pixel",
       "subtitle": "A SUPER Generous Tip!",
-      "titleTagText": "Most Popular",
+      "titleTagText": null,
       "priceSupplementaryText": null,
       "priceSubtitleText": null,
-      "shouldBeGivenProminance": true,
+      "shouldBeGivenProminance": false,
       "isActive": true
     },
     {
@@ -48,7 +48,7 @@
       "titleTagText": "Most Popular",
       "priceSupplementaryText": "/ Month",
       "priceSubtitleText": null,
-      "shouldBeGivenProminance": true,
+      "shouldBeGivenProminance": false,
       "isActive": false
     },
     {
@@ -56,10 +56,10 @@
       "rcIdentifier": "neon_pro_yearly_subscription",
       "title": "Yearly Subscription",
       "subtitle": "Cheaper!",
-      "titleTagText": "Most Popular",
+      "titleTagText": null,
       "priceSupplementaryText": "/ Year",
       "priceSubtitleText": null,
-      "shouldBeGivenProminance": true,
+      "shouldBeGivenProminance": false,
       "isActive": false
     },
     {
