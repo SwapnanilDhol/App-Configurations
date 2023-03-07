@@ -9,7 +9,7 @@
   "packages": [
     {
       "type": "micro",
-      "rcIdentifier": "neon_sub_pixel",
+      "rcIdentifier": "neon-sub-pixel",
       "title": "Sub Pixel",
       "subtitle": "A Generous Tip!",
       "titleTagText": null,
@@ -20,7 +20,7 @@
     },
     {
       "type": "mini",
-      "rcIdentifier": "neon_pixy_pixel",
+      "rcIdentifier": "neon-pixy-pixel",
       "title": "Pixy Pixel",
       "subtitle": "A Veryyyy Generous Tip!",
       "titleTagText": null,
