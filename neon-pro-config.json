@@ -16,7 +16,7 @@
       "priceSupplementaryText": null,
       "priceSubtitleText": null,
       "shouldBeGivenProminance": false,
-      "isActive": true
+      "isActive": false
     },
     {
       "type": "mini",
@@ -27,7 +27,7 @@
       "priceSupplementaryText": null,
       "priceSubtitleText": null,
       "shouldBeGivenProminance": false,
-      "isActive": true
+      "isActive": false
     },
     {
       "type": "mega",
@@ -38,7 +38,7 @@
       "priceSupplementaryText": null,
       "priceSubtitleText": null,
       "shouldBeGivenProminance": true,
-      "isActive": true
+      "isActive": false
     },
     {
       "type": "monthlySubscription",
