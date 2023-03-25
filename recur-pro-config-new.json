@@ -1,0 +1,118 @@
+{
+  "headerImageURL": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+  "title": "Unlock Recur Pro",
+  "subtitle": "Unlimited Subscriptions, Notifications, and more",
+  "footer": "",
+  "restoreProCTATitle": "Already a Pro? Restore your purchase",
+  "privacyPolicyURL": "https://loremipsum.io/privacy-policy/",
+  "termsAndConditionsURL": "https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+  "packages": [
+    {
+      "type": "mini",
+      "rcIdentifier": "recur-pro-mini",
+      "title": "Mini Tip",
+      "subtitle": "A Generous Tip!",
+      "titleTagText": null,
+      "priceSupplementaryText": null,
+      "priceSubtitleText": null,
+      "shouldBeGivenProminance": false,
+      "isActive": false
+    },
+    {
+      "type": "mega",
+      "rcIdentifier": "recur-pro-mega",
+      "title": "Mega Tip",
+      "subtitle": "A Veryyyy Generous Tip!",
+      "titleTagText": null,
+      "priceSupplementaryText": null,
+      "priceSubtitleText": null,
+      "shouldBeGivenProminance": false,
+      "isActive": false
+    },
+    {
+      "type": "monthlySubscription",
+      "rcIdentifier": "recur_pro_monthly_rc_id",
+      "title": "Monthly Subscription",
+      "subtitle": "Pay every month",
+      "titleTagText": null,
+      "priceSupplementaryText": "/ Month",
+      "priceSubtitleText": null,
+      "shouldBeGivenProminance": false,
+      "isActive": true
+    },
+    {
+      "type": "yearlySubscription",
+      "rcIdentifier": "recur_pro_yearly_rc_id",
+      "title": "Yearly Subscription",
+      "subtitle": "Cheaper!",
+      "titleTagText": null,
+      "priceSupplementaryText": "/ Year",
+      "priceSubtitleText": null,
+      "shouldBeGivenProminance": false,
+      "isActive": true
+    },
+    {
+      "type": "lifetime",
+      "rcIdentifier": "recur_pro_lifetime_rc_id",
+      "title": "Lifetime!",
+      "subtitle": "Lifetime access to Recur Pro",
+      "titleTagText": "Most Popular",
+      "priceSupplementaryText": null,
+      "priceSubtitleText": null,
+      "shouldBeGivenProminance": true,
+      "isActive": true
+    }
+  ],
+  "primarySelectedPackageIndex": 2,
+  "colorScheme": {
+    "light": {
+      "titleTextColor": "#000000",
+      "subtitleTextColor": "#3C3C3C",
+      "titleTagTextColor": "#FFFFFF",
+      "titleTagBackgroundColor": "#F56416",
+      "fillColor": "#FFFFFF",
+      "selectedFillColor": "#FFC37B",
+      "borderColor": "#4E2A00",
+      "selectedBorderColor": "#A03905"
+    },
+    "dark": {
+      "titleTextColor": "#FFFFFF",
+      "subtitleTextColor": "#CBCBCB",
+      "titleTagTextColor": "#000000",
+      "titleTagBackgroundColor": "#FFFFFF",
+      "fillColor": "#000000",
+      "selectedFillColor": "#F56416",
+      "borderColor": "#4E2A00",
+      "selectedBorderColor": "#872400"
+    }
+  },
+  "features": [
+    "Enable Notification Reminders.",
+    "Customize all sorts of Colors.",
+    "Alternate App Icons.",
+    "iCloud Sync.",
+    "Support Indie Developer!"
+  ],
+  "reviews": [
+    {
+      "stars": 5,
+      "review": "Easy to use",
+      "reviewer": "superlatios"
+    },
+    {
+      "stars": 5,
+      "review": "Recommended",
+      "reviewer": "[ Silent Warrior ]"
+    },
+    {
+      "stars": 5,
+      "review": "Beautiful UI",
+      "reviewer": "pouya Hz"
+    },
+    {
+      "stars": 5,
+      "review": "Amazing Application!",
+      "reviewer": "AnayDaBest"
+    }
+  ]
+}
