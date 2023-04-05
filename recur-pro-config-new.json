@@ -2,7 +2,7 @@
   "headerImageURL": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
   "title": "Unlock Recur Pro",
   "subtitle": "Unlimited Subscriptions, Notifications, and more",
-  "footer": "",
+  "footer": "Buying either unlocks the same features. If you can afford to pay more I'd love it if you do!",
   "restoreProCTATitle": "Already a Pro? Restore your purchase",
   "privacyPolicyURL": "https://loremipsum.io/privacy-policy/",
   "termsAndConditionsURL": "https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
@@ -16,7 +16,7 @@
       "priceSupplementaryText": null,
       "priceSubtitleText": null,
       "shouldBeGivenProminance": false,
-      "isActive": false
+      "isActive": true
     },
     {
       "type": "mega",
@@ -27,7 +27,7 @@
       "priceSupplementaryText": null,
       "priceSubtitleText": null,
       "shouldBeGivenProminance": false,
-      "isActive": false
+      "isActive": true
     },
     {
       "type": "monthlySubscription",
@@ -38,7 +38,7 @@
       "priceSupplementaryText": "/ Month",
       "priceSubtitleText": null,
       "shouldBeGivenProminance": false,
-      "isActive": true
+      "isActive": false
     },
     {
       "type": "yearlySubscription",
@@ -49,7 +49,7 @@
       "priceSupplementaryText": "/ Year",
       "priceSubtitleText": null,
       "shouldBeGivenProminance": false,
-      "isActive": true
+      "isActive": false
     },
     {
       "type": "lifetime",
@@ -60,10 +60,10 @@
       "priceSupplementaryText": null,
       "priceSubtitleText": null,
       "shouldBeGivenProminance": true,
-      "isActive": true
+      "isActive": false
     }
   ],
-  "primarySelectedPackageIndex": 2,
+  "primarySelectedPackageIndex": 1,
   "colorScheme": {
     "light": {
       "titleTextColor": "#000000",
