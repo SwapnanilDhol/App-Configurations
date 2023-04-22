@@ -1,0 +1,96 @@
+{
+  "headerImageURL": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+  "title": "Unlock Goaley Pro",
+  "subtitle": "Unlimited Goals, Accounts, Contributions, and widgets.",
+  "footer": "",
+  "restoreProCTATitle": "Already a Pro? Restore your purchase",
+  "privacyPolicyURL": "https://loremipsum.io/privacy-policy/",
+  "termsAndConditionsURL": "https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+  "packages": [
+    {
+      "type": "monthly",
+      "rcIdentifier": "rc.goaley.pro.monthly",
+      "title": "Monthly Subscription",
+      "subtitle": "Auto-Renewing. Cancel anytime!",
+      "titleTagText": null,
+      "priceSupplementaryText": null,
+      "priceSubtitleText": null,
+      "shouldBeGivenProminance": false,
+      "isActive": true
+    },
+    {
+      "type": "yearly",
+      "rcIdentifier": "rc.goaley.pro.yearly",
+      "title": "Yearly Subscription",
+      "subtitle": "Auto-Renewing. Cancel anytime!",
+      "titleTagText": null,
+      "priceSupplementaryText": null,
+      "priceSubtitleText": null,
+      "shouldBeGivenProminance": true,
+      "isActive": true
+    },
+    {
+      "type": "lifetime",
+      "rcIdentifier": "rc.goaley.pro.lifetime",
+      "title": "Lifetime!",
+      "subtitle": "One-time payment.",
+      "titleTagText": null,
+      "priceSupplementaryText": null,
+      "priceSubtitleText": null,
+      "shouldBeGivenProminance": false,
+      "isActive": true
+    }
+  ],
+  "primarySelectedPackageIndex": 1,
+  "colorScheme": {
+    "light": {
+      "titleTextColor": "#000000",
+      "subtitleTextColor": "#3C3C3C",
+      "titleTagTextColor": "#FFFFFF",
+      "titleTagBackgroundColor": "#F56416",
+      "fillColor": "#FFFFFF",
+      "selectedFillColor": "#FFC37B",
+      "borderColor": "#4E2A00",
+      "selectedBorderColor": "#A03905"
+    },
+    "dark": {
+      "titleTextColor": "#FFFFFF",
+      "subtitleTextColor": "#CBCBCB",
+      "titleTagTextColor": "#000000",
+      "titleTagBackgroundColor": "#FFFFFF",
+      "fillColor": "#000000",
+      "selectedFillColor": "#F56416",
+      "borderColor": "#4E2A00",
+      "selectedBorderColor": "#872400"
+    }
+  },
+  "features": [
+    "Enable Notification Reminders.",
+    "Customize all sorts of Colors.",
+    "Alternate App Icons.",
+    "iCloud Sync.",
+    "Support Indie Developer!"
+  ],
+  "reviews": [
+    {
+      "stars": 5,
+      "review": "Easy to use",
+      "reviewer": "superlatios"
+    },
+    {
+      "stars": 5,
+      "review": "Recommended",
+      "reviewer": "[ Silent Warrior ]"
+    },
+    {
+      "stars": 5,
+      "review": "Beautiful UI",
+      "reviewer": "pouya Hz"
+    },
+    {
+      "stars": 5,
+      "review": "Amazing Application!",
+      "reviewer": "AnayDaBest"
+    }
+  ]
+}
