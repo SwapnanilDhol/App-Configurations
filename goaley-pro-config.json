@@ -1,7 +1,7 @@
 {
   "headerImageURL": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
   "title": "Unlock Goaley Pro",
-  "subtitle": "Unlimited Goals, Accounts, Contributions, and widgets.",
+  "subtitle": "Unlimited Goals, Accounts, Widgets and more!",
   "footer": "",
   "restoreProCTATitle": "Already a Pro? Restore your purchase",
   "privacyPolicyURL": "https://loremipsum.io/privacy-policy/",
@@ -65,10 +65,10 @@
     }
   },
   "features": [
-    "Enable Notification Reminders.",
-    "Customize all sorts of Colors.",
-    "Alternate App Icons.",
-    "iCloud Sync.",
+    "Unlimited Goals",
+    "Unlimited Contributions",
+    "Widgets!",
+    "Exclusive access to upcoming updates",
     "Support Indie Developer!"
   ],
   "reviews": [
