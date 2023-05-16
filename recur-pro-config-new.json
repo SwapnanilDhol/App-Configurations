@@ -16,7 +16,7 @@
       "priceSupplementaryText": null,
       "priceSubtitleText": null,
       "shouldBeGivenProminance": false,
-      "isActive": true
+      "isActive": false
     },
     {
       "type": "mega",
@@ -27,29 +27,29 @@
       "priceSupplementaryText": null,
       "priceSubtitleText": null,
       "shouldBeGivenProminance": false,
-      "isActive": true
+      "isActive": false
     },
     {
       "type": "monthlySubscription",
       "rcIdentifier": "recur_pro_monthly_rc_id",
       "title": "Monthly Subscription",
-      "subtitle": "Pay every month",
+      "subtitle": "Free for 3 days!",
       "titleTagText": null,
       "priceSupplementaryText": "/ Month",
       "priceSubtitleText": null,
       "shouldBeGivenProminance": false,
-      "isActive": false
+      "isActive": true
     },
     {
       "type": "yearlySubscription",
       "rcIdentifier": "recur_pro_yearly_rc_id",
       "title": "Yearly Subscription",
-      "subtitle": "Cheaper!",
+      "subtitle": "Free for 3 days!",
       "titleTagText": null,
       "priceSupplementaryText": "/ Year",
       "priceSubtitleText": null,
       "shouldBeGivenProminance": false,
-      "isActive": false
+      "isActive": true
     },
     {
       "type": "lifetime",
@@ -60,7 +60,7 @@
       "priceSupplementaryText": null,
       "priceSubtitleText": null,
       "shouldBeGivenProminance": true,
-      "isActive": false
+      "isActive": true
     }
   ],
   "primarySelectedPackageIndex": 1,
