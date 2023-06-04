@@ -27,7 +27,7 @@
       "priceSupplementaryText": null,
       "priceSubtitleText": null,
       "shouldBeGivenProminance": false,
-      "isActive": true
+      "isActive": false
     },
     {
       "type": "mega",
@@ -38,29 +38,29 @@
       "priceSupplementaryText": null,
       "priceSubtitleText": null,
       "shouldBeGivenProminance": true,
-      "isActive": true
+      "isActive": false
     },
     {
       "type": "monthlySubscription",
       "rcIdentifier": "neon_pro_monthly_subscription",
       "title": "Monthly Subscription",
-      "subtitle": "Pay every month",
+      "subtitle": "3 days free!",
       "titleTagText": null,
       "priceSupplementaryText": "/ Month",
       "priceSubtitleText": null,
       "shouldBeGivenProminance": false,
-      "isActive": false
+      "isActive": true
     },
     {
       "type": "yearlySubscription",
       "rcIdentifier": "neon_pro_yearly_subscription",
       "title": "Yearly Subscription",
-      "subtitle": "Cheaper!",
+      "subtitle": "3 days free!",
       "titleTagText": null,
       "priceSupplementaryText": "/ Year",
       "priceSubtitleText": null,
       "shouldBeGivenProminance": false,
-      "isActive": false
+      "isActive": true
     },
     {
       "type": "lifetime",
@@ -71,10 +71,10 @@
       "priceSupplementaryText": null,
       "priceSubtitleText": null,
       "shouldBeGivenProminance": true,
-      "isActive": false
+      "isActive": true
     }
   ],
-  "primarySelectedPackageIndex": 1,
+  "primarySelectedPackageIndex": 2,
   "colorScheme": {
     "light": {
       "titleTextColor": "#000000",
