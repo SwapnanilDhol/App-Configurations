@@ -27,7 +27,7 @@
       "priceSupplementaryText": null,
       "priceSubtitleText": null,
       "shouldBeGivenProminance": false,
-      "isActive": false
+      "isActive": true
     },
     {
       "type": "mega",
@@ -38,7 +38,7 @@
       "priceSupplementaryText": null,
       "priceSubtitleText": null,
       "shouldBeGivenProminance": true,
-      "isActive": false
+      "isActive": true
     },
     {
       "type": "monthlySubscription",
@@ -49,7 +49,7 @@
       "priceSupplementaryText": "/ Month",
       "priceSubtitleText": null,
       "shouldBeGivenProminance": false,
-      "isActive": true
+      "isActive": false
     },
     {
       "type": "yearlySubscription",
@@ -60,7 +60,7 @@
       "priceSupplementaryText": "/ Year",
       "priceSubtitleText": null,
       "shouldBeGivenProminance": false,
-      "isActive": true
+      "isActive": false
     },
     {
       "type": "lifetime",
@@ -71,10 +71,10 @@
       "priceSupplementaryText": null,
       "priceSubtitleText": null,
       "shouldBeGivenProminance": true,
-      "isActive": true
+      "isActive": false
     }
   ],
-  "primarySelectedPackageIndex": 2,
+  "primarySelectedPackageIndex": 1,
   "colorScheme": {
     "light": {
       "titleTextColor": "#000000",
