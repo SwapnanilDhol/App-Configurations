@@ -9,7 +9,7 @@
   "packages": [
     {
       "type": "small-tip",
-      "rcIdentifier": "rc.small.tip",
+      "rcIdentifier": "rc.tip.small",
       "title": "Small Tip",
       "subtitle": "A generous tip",
       "titleTagText": null,
@@ -20,7 +20,7 @@
     },
     {
       "type": "medium-tip",
-      "rcIdentifier": "rc.medium.tip",
+      "rcIdentifier": "rc.tip.medium",
       "title": "Medium Tip",
       "subtitle": "A super generous tip!",
       "titleTagText": null,
