@@ -26,7 +26,7 @@
       "titleTagText": null,
       "priceSupplementaryText": null,
       "priceSubtitleText": null,
-      "shouldBeGivenProminance": true,
+      "shouldBeGivenProminance": false,
       "isActive": true
     },
     {
@@ -37,7 +37,7 @@
       "titleTagText": "Most Popular!",
       "priceSupplementaryText": null,
       "priceSubtitleText": null,
-      "shouldBeGivenProminance": false,
+      "shouldBeGivenProminance": true,
       "isActive": true
     },
     {
@@ -59,7 +59,7 @@
       "titleTagText": "Limited time offer!",
       "priceSupplementaryText": null,
       "priceSubtitleText": null,
-      "shouldBeGivenProminance": false,
+      "shouldBeGivenProminance": true,
       "isActive": true
     }
   ],
