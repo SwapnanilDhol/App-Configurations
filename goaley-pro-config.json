@@ -1,7 +1,7 @@
 {
   "headerImageURL": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
   "title": "Unlock Goaley Pro",
-  "subtitle": "Unlimited Goals, Accounts, Widgets and more!",
+  "subtitle": "Unlimited Goals, Accounts, Contributions, and widgets.",
   "footer": "",
   "restoreProCTATitle": "Already a Pro? Restore your purchase",
   "privacyPolicyURL": "https://loremipsum.io/privacy-policy/",
@@ -11,7 +11,7 @@
       "type": "monthly",
       "rcIdentifier": "rc.goaley.pro.monthly",
       "title": "Monthly Subscription",
-      "subtitle": "3 days free trial!",
+      "subtitle": "No Commitment. Cancel anytime!",
       "titleTagText": null,
       "priceSupplementaryText": null,
       "priceSubtitleText": null,
@@ -22,7 +22,7 @@
       "type": "yearly",
       "rcIdentifier": "rc.goaley.pro.yearly",
       "title": "Yearly Subscription",
-      "subtitle": "3 days free trial!",
+      "subtitle": "No Committment. Cancel anytime!",
       "titleTagText": null,
       "priceSupplementaryText": null,
       "priceSubtitleText": null,
@@ -35,6 +35,28 @@
       "title": "Lifetime!",
       "subtitle": "One-time payment.",
       "titleTagText": null,
+      "priceSupplementaryText": null,
+      "priceSubtitleText": null,
+      "shouldBeGivenProminance": false,
+      "isActive": true
+    },
+    {
+      "type": "miniTip",
+      "rcIdentifier": "rc.goaley.pro.miniTip",
+      "title": "Mini Tip!",
+      "subtitle": "One-time payment!",
+      "titleTagText": null,
+      "priceSupplementaryText": null,
+      "priceSubtitleText": null,
+      "shouldBeGivenProminance": false,
+      "isActive": true
+    }
+    {
+      "type": "megaTip",
+      "rcIdentifier": "rc.goaley.pro.megaTip",
+      "title": "Mega Tip!",
+      "subtitle": "One-time payment!",
+      "titleTagText": "Limited time offer!",
       "priceSupplementaryText": null,
       "priceSubtitleText": null,
       "shouldBeGivenProminance": false,
@@ -65,10 +87,10 @@
     }
   },
   "features": [
-    "Unlimited Goals",
-    "Unlimited Contributions",
-    "Widgets!",
-    "Exclusive access to upcoming updates",
+    "Enable Notification Reminders.",
+    "Customize all sorts of Colors.",
+    "Alternate App Icons.",
+    "iCloud Sync.",
     "Support Indie Developer!"
   ],
   "reviews": [
