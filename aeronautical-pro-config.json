@@ -1,0 +1,97 @@
+{
+  "headerImageURL": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+  "title": "Unlock Aeronautical Pro",
+  "subtitle": "Limited time offer!",
+  "footer": "",
+  "restoreProCTATitle": "Already a Pro? Restore your purchase",
+  "privacyPolicyURL": "https://loremipsum.io/privacy-policy/",
+  "termsAndConditionsURL": "https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+  "packages": [
+    {
+      "type": "monthlySubscription",
+      "rcIdentifier": "rc.aeronautical.pro.monthly",
+      "title": "Monthly Subscription",
+      "subtitle": "No commitment. Cancel Anytime!",
+      "titleTagText": null,
+      "priceSupplementaryText": "/ Month",
+      "priceSubtitleText": null,
+      "shouldBeGivenProminance": false,
+      "isActive": true
+    },
+    {
+      "type": "yearlySubscription",
+      "rcIdentifier": "rc.aeronautical.pro.yearly",
+      "title": "Yearly Subscription",
+      "subtitle": "No commitment. Cancel Anytime!",
+      "titleTagText": null,
+      "priceSupplementaryText": "/ Year",
+      "priceSubtitleText": null,
+      "shouldBeGivenProminance": false,
+      "isActive": true
+    },
+    {
+      "type": "lifetime",
+      "rcIdentifier": "rc.aeronautical.pro.lifetime",
+      "title": "Lifetime!",
+      "subtitle": "Lifetime access to Aeronautical Pro",
+      "titleTagText": "Most Popular",
+      "priceSupplementaryText": null,
+      "priceSubtitleText": null,
+      "shouldBeGivenProminance": true,
+      "isActive": true
+    }
+  ],
+  "primarySelectedPackageIndex": 1,
+  "colorScheme": {
+    "light": {
+      "titleTextColor": "#000000",
+      "subtitleTextColor": "#3C3C3C",
+      "titleTagTextColor": "#FFFFFF",
+      "titleTagBackgroundColor": "#F56416",
+      "fillColor": "#FFFFFF",
+      "selectedFillColor": "#FFC37B",
+      "borderColor": "#4E2A00",
+      "selectedBorderColor": "#A03905"
+    },
+    "dark": {
+      "titleTextColor": "#FFFFFF",
+      "subtitleTextColor": "#CBCBCB",
+      "titleTagTextColor": "#000000",
+      "titleTagBackgroundColor": "#FFFFFF",
+      "fillColor": "#000000",
+      "selectedFillColor": "#F56416",
+      "borderColor": "#4E2A00",
+      "selectedBorderColor": "#872400"
+    }
+  },
+  "features": [
+    "Widgets!",
+    "Unlimited METARs",
+    "Refresh unlimited times",
+    "Alternate App Icons.",
+    "Apple Watch app.",
+    "Support Indie Developer!"
+  ],
+  "reviews": [
+    {
+      "stars": 5,
+      "review": "Easy to use",
+      "reviewer": "superlatios"
+    },
+    {
+      "stars": 5,
+      "review": "Recommended",
+      "reviewer": "[ Silent Warrior ]"
+    },
+    {
+      "stars": 5,
+      "review": "Beautiful UI",
+      "reviewer": "pouya Hz"
+    },
+    {
+      "stars": 5,
+      "review": "Amazing Application!",
+      "reviewer": "AnayDaBest"
+    }
+  ]
+}
