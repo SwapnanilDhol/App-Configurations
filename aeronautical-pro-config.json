@@ -39,6 +39,28 @@
       "priceSubtitleText": null,
       "shouldBeGivenProminance": true,
       "isActive": true
+    },
+    {
+      "type": "mediumTip",
+      "rcIdentifier": "rc.aeronautical.pro.mediumTip",
+      "title": "Medium Tip!",
+      "subtitle": "Lifetime access to Aeronautical Pro!",
+      "titleTagText": "Exclusive Offer!",
+      "priceSupplementaryText": null,
+      "priceSubtitleText": null,
+      "shouldBeGivenProminance": false,
+      "isActive": true
+    },
+    {
+      "type": "largeTip",
+      "rcIdentifier": "rc.aeronautical.pro.largeTip",
+      "title": "Large Tip!",
+      "subtitle": "Super limited time exclusive offer!",
+      "titleTagText": "Rare Price!",
+      "priceSupplementaryText": null,
+      "priceSubtitleText": null,
+      "shouldBeGivenProminance": true,
+      "isActive": true
     }
   ],
   "primarySelectedPackageIndex": 1,
@@ -69,7 +91,7 @@
     "Unlimited METARs",
     "Refresh unlimited times",
     "Alternate App Icons.",
-    "Apple Watch app.",
+    "Apple Watch app (Coming in a week!)",
     "Support Indie Developer!"
   ],
   "reviews": [
