@@ -1,10 +1,10 @@
 {
     "headerImageURL": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-    "title": "Unlock Money Buddy Pro",
+    "title": "Unlock Windfall Pro",
     "subtitle": "Unlimited Transactions, Customizations, Widgets, and more!",
     "footer": "Buying either unlocks the same features. If you can afford to pay more I'd love it if you do!",
     "restoreProCTATitle": "Already a Pro? Restore your purchase",
-    "privacyPolicyURL": "https://loremipsum.io/privacy-policy/",
+    "privacyPolicyURL": "https://pages.flycricket.io/recur/privacy.html",
     "termsAndConditionsURL": "https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
     "packages": [
       {
@@ -76,10 +76,11 @@
       }
     },
     "features": [
-      "Enable Notification Reminders.",
-      "Customize all sorts of Colors.",
-      "Alternate App Icons.",
-      "iCloud Sync.",
+      "Unlimited Transactions",
+      "Set Transaction Currency",
+      "Detailed Reports",
+      "Export to CSV (coming soon)",
+      "Siri Shortcuts support (coming soon)",
       "Support Indie Developer!"
     ],
     "reviews": [
