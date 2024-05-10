@@ -8,6 +8,17 @@
   "termsAndConditionsURL": "https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
   "packages": [
     {
+      "type": "weekly",
+      "rcIdentifier": "rc.goaley.pro.weekly",
+      "title": "Weekly Subscription",
+      "subtitle": "Auto-Renewing. Cancel anytime!",
+      "titleTagText": null,
+      "priceSupplementaryText": null,
+      "priceSubtitleText": null,
+      "shouldBeGivenProminance": false,
+      "isActive": true
+    },
+    {
       "type": "monthly",
       "rcIdentifier": "rc.goaley.pro.monthly",
       "title": "Monthly Subscription",
@@ -32,6 +43,17 @@
     {
       "type": "lifetime",
       "rcIdentifier": "rc.goaley.pro.lifetime",
+      "title": "Lifetime!",
+      "subtitle": "One-time payment.",
+      "titleTagText": "Most Popular!",
+      "priceSupplementaryText": null,
+      "priceSubtitleText": null,
+      "shouldBeGivenProminance": true,
+      "isActive": true
+    },
+    {
+      "type": "lifetimeNew",
+      "rcIdentifier": "rc.goaley.pro.lifetime.new",
       "title": "Lifetime!",
       "subtitle": "One-time payment.",
       "titleTagText": "Most Popular!",
@@ -87,7 +109,9 @@
     }
   },
   "features": [
-    "Enable Notification Reminders.",
+    "Unlimited Goals",
+    "Unlimited Contributions",
+    "Totally ad free",
     "Customize all sorts of Colors.",
     "Alternate App Icons.",
     "iCloud Sync.",
