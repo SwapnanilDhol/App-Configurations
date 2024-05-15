@@ -8,6 +8,17 @@
   "termsAndConditionsURL": "https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
   "packages": [
     {
+      "type": "weekly",
+      "rcIdentifier": "rc.recur.pro.weekly",
+      "title": "Weekly Subscription",
+      "subtitle": "Auto-Renewing. Cancel anytime!",
+      "titleTagText": null,
+      "priceSupplementaryText": null,
+      "priceSubtitleText": null,
+      "shouldBeGivenProminance": false,
+      "isActive": true
+    },
+    {
       "type": "mini",
       "rcIdentifier": "recur-pro-mini",
       "title": "Mini Tip",
